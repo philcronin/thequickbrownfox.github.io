@@ -1,0 +1,64 @@
+To Do...
+
+WRITE A displayMenuFunction AND THEN RUN A FOR EACH LOOP ON EAT AND DRINK THAT USES THE displayMenuFunction
+
+When click on grey area exit cart
+
+Add favicon
+
+Add image to top of page for branding 
+
+Mobil View
+  - wrap items / keep in the containers
+  -remove type
+
+Menu
+  -add drop shadow tp each item
+  -get creative with items and descriptions
+  -style and spacing
+  -add image to each item to left
+  -hover on each item
+
+Media Query
+  -
+
+Cart
+  -add counter ontop of Cart
+    -number in box = to array.length
+  -remove item button  cart remove correct item
+  -remove border from checkout button
+  -add scroll bar
+  -add in the cart is empty
+  -add hover to button
+  -align items
+
+CC Checkout - check into pre built javascript for creditcard transactions
+  -credit card validation
+  -limit input length in cvv
+    -stars on cvv
+  -require first and last name
+    -placeholder
+  -expiration date-popup year and month 
+    -place holder
+  -add hover to button
+
+Cash 
+  -insufficient funds
+  -improve layout of cash form 
+  -add hover to button
+
+Input
+  -add reset
+
+Receipt  
+  -print button
+  -possibly open a new page
+
+Footer
+  -contact
+  -created by ...
+  -social media icons
+
+DANCING UNICORN!!!
+
+Change all prices toFixed(2)
